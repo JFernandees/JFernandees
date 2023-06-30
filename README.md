@@ -1,5 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Jonas Fernandes </h1>
 
+![github_cover_banner](https://media.licdn.com/dms/image/D4D16AQHd2zXr9O3y3w/profile-displaybackgroundimage-shrink_350_1400/0/1682955847021?e=1693440000&v=beta&t=nSsEcnnaBHjEwrHespQzUTV1P7r86nbikFLdiLVMHr4)
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Atualmente estou buscando minha primeira oportunidade de emprego como analista de
 dados. Tenho experiência em diversos projetos de análise de dados, destacando um case em
